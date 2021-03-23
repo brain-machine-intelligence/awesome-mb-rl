@@ -47,6 +47,7 @@
 
   
 ### Gan-based
+test
 
 ### Self-supervised
 + 2020 | Goal-Aware Prediction: Learning to Model What Matters | ICML | [`PDF`](https://arxiv.org/abs/2007.07170)
