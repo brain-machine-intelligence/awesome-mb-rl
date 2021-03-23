@@ -76,9 +76,9 @@
      environment-specific information.
 
 ### Inductive bias
-
-## Planning
 test
+## Planning
+
 ### Shooting
 
 ### CEM
