@@ -23,15 +23,16 @@
 + [Environments](#environment)
     
 
+# Papers
 
-# Surveys
+## Surveys
 + 2019 | Benchmarking Model-based Reinforcement Learning | arXiv | [`PDF`](https://arxiv.org/abs/1907.02057)
   - keywords
     - Non-pixel-level, Extreme experiments
   - summary
     - (a) Tested a various model-based approaches on the unified test environment.
 
-# Dyanmics Model
+## Dyanmics Model
 ### Vae-based
 + 2019 | Learning Latent Dynamics for Planning from Pixels | ICML | [`PDF`](https://arxiv.org/abs/1811.04551) :star:
   - keywords
@@ -76,7 +77,7 @@
 
 ### Inductive bias
 
-# Planning
+## Planning
 
 ### Shooting
 
@@ -93,7 +94,7 @@
     
 + 2017 | Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning | NeurIPS | [`PDF`](https://arxiv.org/abs/1708.02596)
   - keywords
-    -Non-pixel-level, MF 
+    - Non-pixel-level, MF 
   - summary
     - TODO
     
