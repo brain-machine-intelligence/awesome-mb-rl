@@ -85,7 +85,14 @@ test
 ### CEM
 
 ### Dyna-style
-
++ 2017 | Imagination-Augmented Agents for Deep Reinforcement Learning | arXiv | [`PDF`](https://arxiv.org/abs/1707.06203)
+  - keywords
+    - I2A
+  - summary
+    - (a) Proposed a Imagination-Augmented Agents (I2As) which combining model-free and model-based aspects.
+    - (b) I2As learn to interpret predictions from a learned environment model to construct implicit plans in arbitrary ways.
+    - (c) I2As show improved data efficiency, performance, and robustness to model misspecification.
+ 
 ### MF-assisted
 + 2017 | MBMF: Model-Based Priors for Model-Free Reinforcement Learning | CoRL | [`PDF`](https://arxiv.org/abs/1709.03153)
   - keywords
@@ -100,6 +107,21 @@ test
     - TODO
     
 ### Estimate-derivative
-123123123
+
+
+
+# Lectures
+
+
+
+
+
+# Environments
+
+
+
+
+
+
 
 
