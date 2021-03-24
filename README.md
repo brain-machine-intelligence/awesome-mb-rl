@@ -19,7 +19,7 @@
     - [MF-assisted](#mf-assisted)
     - [Local-to-global](#local-to-global)
     - [Estimate-derivative](#estimate-derivative)
-+ [Lectures]($lectures)   
++ [Lectures](#lectures)   
 + [Environments](#environment)
     
 
@@ -100,3 +100,6 @@ test
     - TODO
     
 ### Estimate-derivative
+123123123
+
+
