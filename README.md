@@ -83,7 +83,7 @@ test
 ### Shooting
 
 ### CEM
-+ 2019 | The Differentiable Cross-Entropy Method | arXiv | [`PDF`](https://arxiv.org/pdf/1909.12830)
++ 2019 | The Differentiable Cross-Entropy Method | arXiv | [`PDF`](https://arxiv.org/abs/1909.12830)
   - keywords
     - DCEM
   - summary
