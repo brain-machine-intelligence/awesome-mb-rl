@@ -83,6 +83,13 @@ test
 ### Shooting
 
 ### CEM
++ 2019 | The Differentiable Cross-Entropy Method | arXiv | [`PDF`](https://arxiv.org/pdf/1909.12830)
+  - keywords
+    - DCEM
+  - summary
+    - (a) Introduce a differentiable variant that enables us to differentiate the output of CEM with respect to the objective function’s parameters.
+    - (b) This brings CEM inside the end-to-end learning pipeline.
+    - (c) Show applications in a synthetic energy-based structured prediction task and non-convex continuous control.
 
 ### Dyna-style
 + 2017 | Imagination-Augmented Agents for Deep Reinforcement Learning | arXiv | [`PDF`](https://arxiv.org/abs/1707.06203)
