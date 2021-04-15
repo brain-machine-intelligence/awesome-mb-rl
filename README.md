@@ -32,6 +32,12 @@
   - summary
     - (a) Tested a various model-based approaches on the unified test environment.
 
++ 2020 | MOPO: Model-based Offline Policy Optimization | NeurIPS | [`PDF`](https://arxiv.org/pdf/2005.13239.pdf)
+  - keywords
+    - Offline RL, Uncertainty, Distributional shift
+  - summary
+    - (a) Reward artificially penalized by the uncertainty of the dynamics
+
 ## Dyanmics Model
 ### Vae-based
 + 2019 | Learning Latent Dynamics for Planning from Pixels | ICML | [`PDF`](https://arxiv.org/abs/1811.04551) :star:
